@@ -14,7 +14,7 @@ public class Blackjack
 		int ties = 0;
 		int noMenu = 0;
 		int justMenu = 0;
-		
+		//Hi
 		DecimalFormat df = new DecimalFormat("0.0");
 	
 		int gameNumber = 1;
